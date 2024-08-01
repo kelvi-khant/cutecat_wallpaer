@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Cute Cat Wallpaper</string>
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+    <string name="title_activity_splace">SplaceActivity</string>
+    <string name="first_fragment_label">Premier Fragment</string>
+    <string name="second_fragment_label">Deuxième Fragment</string>
+    <string name="next">Suivant</string>
+    <string name="previous">Précédent</string>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <string name="aesthetic_cat">Chat esthétique</string>
+    <string name="black_cat">Chat noir</string>
+    <string name="cute_cat">>Chat mignon</string>
+    <string name="favorite">Favori</string>
+    <string name="funny_cat">Chat drôle</string>
+    <string name="kitten">Chaton</string>
+    <string name="home">accueil</string>
+    <string name="for_you">Pour vous</string>
+    <string name="no_data">AUCUNE DONNÉE</string>
+    <string name="for_you_txt">Pour vous</string>
+    <string name="genres">Genres</string>
+    <string name="catuba">CatUba</string>
+    <string name="moogle">Moogle</string>
+    <string name="cuties">Mignonnes</string>
+    <string name="kitty">minou</string>
+    <string name="french">Français</string>
+    <string name="land">Terre</string>
+    <string name="world">Monde</string>
+    <string name="cute">Mignon</string>
+    <string name="date">Date</string>
+    <string name="_12_30">12:30</string>
+    <string name="thank_you_for_using_this_app">MERCI DUTILISER CETTE APPLICATION</string>
+    <string name="_5647">5647</string>
+    <string name="home_icon">ACCUEIL</string>
+    <string name="lock_icon">VERROU</string>
+    <string name="both_icon">LES DEUX</string>
+    <string name="full">Complet</string>
+    <string name="test">Test</string>
+    <string name="_3545">3545</string>
+    <string name="home_ly">ACCUEIL</string>
+    <string name="lock_ly">VERROU</string>
+    <string name="both_ly">LES DEUX</string>
+    <string name="share_ly">Partager</string>
+    <string name="download_ly">Télécharger</string>
+    <string name="test_full">Test</string>
+    <string name="_3545_full">3545</string>
+    <string name="home_full">ACCUEIL</string>
+    <string name="lock_full">VERROU</string>
+    <string name="both_full">LES DEUX </string>
+    <string name="share_full">Partager</string>
+    <string name="download_full">Télécharger</string>
+    <string name="favorite_op">Favori</string>
+    <string name="rate_us_op">Évaluez-nous</string>
+    <string name="share_op">Partager</string>
+    <string name="feedback_op">Retour</string>
+    <string name="language_op">Langue</string>
+    <string name="recent">Récent</string>
+    <string name="featured">En vedette</string>
+    <string name="popular">Populaire</string>
+    <string name="random">Aléatoire</string>
+    <string name="live_wallpaper">Fond décran animé</string>
+    <string name="exit_app">Quitter lapplication</string>
+    <string name="close">Fermer</string>
+    <string name="no_data_found">Aucune donnée trouvée</string>
+    <string name="removed_from_favorites">Supprimé des favoris</string>
+    <string name="added_to_favorites">Ajouté aux favoris</string>
+    <string name="set_lockscreen">définir Écran verrouillé....</string>
+    <string name="set_wallpaper_on_lock">Définir le papier peint sur le verrouillage</string>
+    <string name="not_set">Non défini</string>
+    <string name="set_homescreen">définir lécran daccueil....</string>
+    <string name="set_homewallpaper">Définir le fond décran daccueil</string>
+    <string name="downloading">Téléchargement....</string>
+    <string name="image_saved_to_albums">Image enregistrée dans les albums</string>
+    <string name="failed_to_download_image">Échec du téléchargement de limage</string>
+    <string name="somthing_wrong">quelque chose ne va pas</string>
+    <string name="language">Langue</string>
+    <string name="set">ENSEMBLE</string>
+    <string name="wallpaper_description">123</string>
+
+</resources>

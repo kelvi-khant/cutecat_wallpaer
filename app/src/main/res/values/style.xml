@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="rounderimage" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10dp</item>
+        <item name="color">@color/white</item>
+    </style>
+    <style name="layout" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">5dp</item>
+        <item name="color">@color/white</item>
+    </style>
+    <style name="AppTheam" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">#8F403D3D</item>
+        <item name="colorAccent">#2DC2BDBD</item>
+    </style>
+    <style name="CustomTextStyle">
+        <item name="android:textSize">17dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:windowFullscreen">true</item>
+        <!-- Other text style attributes -->
+    </style>
+    <style name="TextStyle">
+        <item name="android:textSize">14dp</item>
+        <item name="android:textStyle">bold</item>
+        <!-- Other text style attributes -->
+    </style>
+    <style name="Radiobutton" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">@color/black</item>
+    </style>
+    <style name="AlertDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/black</item>
+    </style>
+</resources>

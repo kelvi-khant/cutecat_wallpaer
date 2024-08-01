@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Cute Cat Wallpaper</string>
+    <string name="hello_blank_fragment">Halo fragmen kosong</string>
+    <string name="title_activity_splace">SplaceActivity</string>
+    <string name="first_fragment_label">Fragmen Pertama</string>
+    <string name="second_fragment_label">Fragmen Kedua</string>
+    <string name="next">Selanjutnya</string>
+    <string name="previous">Sebelumnya</string>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam di sem scelerisque. mauris
+         volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, duduk amet mattis purus
+         dui nec risiko. Maecenas non sodales nisi, vel dictum dolor. Kelas tepat taciti sosiosqu ad
+         litora torquent per conubia nostra, per inceptos himenaeos. Suspendise blandit eleifend
+         diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+         hiasan mantan. Sed rhoncus est ut libero porta lobortis. Bersatu dalam diktum tellus.\n\n
+         Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+         egestas, est a condimentum egestas, turpis nisl iaculis ipsum, dalam diktum tellus dolor sed
+         tidak. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum dan malesuada
+         ketenaran ac ante ipsum primis di faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+         penganiaya nibh. Phasellus dan commodo eros, bukan aliquet metus. Sed maximus nisl nec dolor
+         bibendum, velo egestas.\n\n
+         Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, bumbu duduk
+         amet auctor di, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+         quam penganiaya. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Bilangan bulat
+         interdum nunc ligula, dan fermentum metus hendrerit id. Vestibulum lectus felis, diktum di
+         lacinia duduk amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+         di lobortis sem porta sed. Integer id ultrices magna, di luctus elit. Sed sebuah pellentesque
+         perkiraan\n\n
+         Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Ini adalah venenatis nibh.
+         Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+         bukan lorem. Nama mollis ipsum yang merupakan pembuat varius. Elemen unik ini bebas dan komodo. Di dalam
+         eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+         quis imperdiet eros placerat ac. Duis finibus orci dan est penulis tincidunt. Sed non viverra
+         ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi dan consectetur ipsum, a
+         diameter placerat. Etiam vulputate dignissim convallis. Integer faucibus mauris duduk di amet finibus
+         convallis.\n\n
+         Phasellus di aliquet mi. Morbi tristique senectus et netus et
+         malesuada fames ac turpis egestas. Dalam volutpat arcu ut felis sagittis, dalam finibus massa
+         hamil. Pellentesque id tellus orci. Diktum bilangan bulat, lorem sed efficitur ullamcorper,
+         libero justo consectetur ipsum, di mollis nisl ex sed nisl. Donec maximus ullamcorper
+         sodales. Pujian bibendum rhoncus tellus nec feugiat. Dalam sebuah hiasan nulla. Selesai rhoncus
+         libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+         ruang depan. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.</string>
+    <string name="aesthetic_cat">Kucing Estetika</string>
+    <string name="black_cat">Kucing Hitam</string>
+    <string name="cute_cat">Kucing Lucu</string>
+    <string name="favorite">Favorit</string>
+    <string name="funny_cat">Kucing Lucu</string>
+    <string name="kitten">Anak kucing</string>
+    <string name="home">rumah</string>
+    <string name="for_you">Untuk Anda</string>
+    <string name="no_data">TIDAK ADA DATA</string>
+    <string name="for_you_txt">Untuk Anda</string>
+    <string name="genres">Genre</string>
+    <string name="catuba">CatUba</string>
+    <string name="moogle">Moogle</string>
+    <string name="cuties">Manis</string>
+    <string name="kitty">kucing</string>
+    <string name="french">Prancis</string>
+    <string name="land">Tanah</string>
+    <string name="world">Dunia</string>
+    <string name="cute">Manis</string>
+    <string name="date">Tanggal</string>
+    <string name="_12_30">12:30</string>
+    <string name="thank_you_for_using_this_app">TERIMA KASIH TELAH MENGGUNAKAN APLIKASI INI</string>
+    <string name="_5647">5647</string>
+    <string name="home_icon">RUMAH</string>
+    <string name="lock_icon">KUNCI</string>
+    <string name="both_icon">KEDUANYA</string>
+    <string name="full">Penuh</string>
+    <string name="test">Uji</string>
+    <string name="_3545">3545</string>
+    <string name="home_ly">RUMAH</string>
+    <string name="lock_ly">KUNCI</string>
+    <string name="both_ly">KEDUANYA</string>
+    <string name="share_ly">Bagikan</string>
+    <string name="download_ly">Unduh</string>
+    <string name="test_full">Uji</string>
+    <string name="_3545_full">3545</string>
+    <string name="home_full">RUMAH</string>
+    <string name="lock_full">KUNCI</string>
+    <string name="both_full">KEDUANYA</string>
+    <string name="share_full">Bagikan</string>
+    <string name="download_full">Unduh</string>
+    <string name="favorite_op">Favorit</string>
+    <string name="rate_us_op">Beri Nilai Kami</string>
+    <string name="share_op">Bagikan</string>
+    <string name="feedback_op">Umpan Balik</string>
+    <string name="language_op">Bahasa</string>
+    <string name="recent">Terbaru</string>
+    <string name="featured">Unggulan</string>
+    <string name="popular">Populer</string>
+    <string name="random">Acak</string>
+    <string name="live_wallpaper">Wallpaper Animasi</string>
+    <string name="exit_app">Keluar dari aplikasi</string>
+    <string name="close">Tutup</string>
+    <string name="no_data_found">Data Tidak Ditemukan</string>
+    <string name="removed_from_favorites">Dihapus dari favorit</string>
+    <string name="added_to_favorites">Ditambahkan ke favorit</string>
+    <string name="set_lockscreen">setel Layar kunci.....</string>
+    <string name="set_wallpaper_on_lock">Setel kertas dinding di Kunci</string>
+    <string name="not_set">Tidak Disetel</string>
+    <string name="set_homescreen">setel Layar Beranda....</string>
+    <string name="set_homewallpaper">Setel kertas dinding Beranda</string>
+    <string name="downloading">Mengunduh.....</string>
+    <string name="image_saved_to_albums">Gambar disimpan ke Album</string>
+    <string name="failed_to_download_image">Gagal mengunduh gambar</string>
+    <string name="somthing_wrong">ada yang salah</string>
+    <string name="language">Bahasa</string>
+    <string name="set">MENGATUR</string>
+    <string name="wallpaper_description">123</string>
+
+</resources>

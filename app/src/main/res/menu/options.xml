@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <item android:id="@+id/Recent"
+            android:title="@string/recent"
+            />
+        <item android:id="@+id/Featured"
+            android:title="@string/featured"
+            />
+        <item android:id="@+id/Popular"
+            android:title="@string/popular"
+            />
+        <item android:id="@+id/Random"
+            android:title="@string/random"
+            />
+        <item android:id="@+id/Live_Wallpaper"
+            android:title="@string/live_wallpaper"
+            />
+</menu>

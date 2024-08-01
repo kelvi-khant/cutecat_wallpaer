@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/arapey</item>
+        <item>@font/arbutus_slab</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/autour_one</item>
+        <item>@font/averia_libre_light</item>
+        <item>@font/baloo_tamma</item>
+        <item>@font/bangers</item>
+        <item>@font/cutive</item>
+        <item>@font/diplomata</item>
+        <item>@font/faster_one</item>
+        <item>@font/fredoka_one</item>
+        <item>@font/glass_antiqua</item>
+        <item>@font/kavoon</item>
+        <item>@font/limelight</item>
+    </array>
+</resources>
